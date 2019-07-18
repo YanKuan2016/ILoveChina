@@ -1,2 +1,2 @@
-server:
-  port: 9088
+image:
+  server: 9088
